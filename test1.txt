@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 41A2-714D
+
+ Directory of C:\Users\dan\code1\MyFirstGitPoject
+
+03/20/2022  03:27 PM    <DIR>          .
+03/20/2022  03:27 PM    <DIR>          ..
+03/20/2022  03:27 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  14,369,460,224 bytes free
